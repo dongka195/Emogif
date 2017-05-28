@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Gifu (2.0.0)
+  - Google-Mobile-Ads-SDK (7.20.0)
+  - MagicMapper (1.0.2)
+  - MMTabBarAnimation (0.2.9)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - PKHUD (4.2.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Spring (1.0.3)
+  - SwiftyGif (3.0.3)
+  - XCGLogger (5.0.1):
+    - XCGLogger/Core (= 5.0.1)
+  - XCGLogger/Core (5.0.1):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Gifu
+  - Google-Mobile-Ads-SDK
+  - MagicMapper
+  - MMTabBarAnimation
+  - PKHUD (~> 4.0)
+  - SDWebImage (~> 3.8)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift3`)
+  - SwiftyGif
+  - XCGLogger (~> 5.0.1)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift3
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 8201b5c93bd7ebdf4cd18160bcde1e6e88c2be64
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Gifu: 56a4d8f1092399159fa32662aa2232158b48d8ac
+  Google-Mobile-Ads-SDK: 168312cdc167fa22746d4ea8e839fc4825dd2966
+  MagicMapper: 1909d0e15b7a3ef7faec2c5e30791eed0815e934
+  MMTabBarAnimation: 1d810a99d32b109afdf77cd0a20a19981c1e8598
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SwiftyGif: 89a0bb19709bdb6990e10405ad456d8bea804a65
+  XCGLogger: 0b43697155d41e4a1b15fc776f319c2141646b09
+
+PODFILE CHECKSUM: 7a347bc3a9dbc2fa841bf461167565c1b4268f2f
+
+COCOAPODS: 1.2.1
